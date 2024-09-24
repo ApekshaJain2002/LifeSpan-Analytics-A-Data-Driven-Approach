@@ -79,3 +79,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - United Nations Data
 - Scikit-learn Documentation
 - [Articles on life expectancy](https://towardsdatascience.com/what-really-drives-higher-life-expectancy-e1c1ec22f6e1)
+- ![image](https://github.com/user-attachments/assets/21b2b65b-4d69-4c10-a81d-f436be09d3f9)
+
